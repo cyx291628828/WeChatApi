@@ -99,7 +99,7 @@ ws.run_forever()
 
 > 自己搭建一个WebSocket服务端，微信客户端数据以json的格式发送给服务端，优点：多端群控更方便
 >
-> 服务端丢给客户端的数据应包含[Http文档](https://frz2one.github.io/Api.html)中JSON对应的Name字段（除`WeChatID`外）
+> 服务端丢给客户端的数据应包含[Http文档](http://htmlpreview.github.io/?https://github.com/FRz2one/WeChatApi/blob/master/WeChatAPI.html)中JSON对应的Name字段（除`WeChatID`外）
 >
 > WeChat2.dll给你的JSON数据Name解释：
 >
